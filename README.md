@@ -11,5 +11,6 @@ Skills and tech involved
 * Clerk
 * Tailwind
 * MySQL
+* shadcn
 
 Upon completion, will use knowledge gained and a lot of the reusable components from this to instead of being ecommerce based, be SaaS/micro-SaaS based. May look to also use supabase in place of planetscale, but planetscale is seeming really great right now.
