@@ -1,7 +1,5 @@
 # E-Commerce Dashboard
-Fully inspired by the [following repository](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master)
-
-Currently in progress. Working on general front end development
+Fully inspired by the [following repository](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master) and [video](https://youtu.be/5miHyP6lExg)
 
 Skills and tech involved
 * React
@@ -13,7 +11,13 @@ Skills and tech involved
 * MySQL
 * shadcn
 
-Upon completion, will use knowledge gained and a lot of the reusable components from this to instead of being ecommerce based, be SaaS/micro-SaaS based. May look to also use supabase in place of planetscale, but planetscale is seeming really great right now.
+My video review of project [here](https://youtu.be/qHp3Xucxhog)
+
+Need to come back to this and update the readme to explain the project, but have the video walkthrough of thoughts for now.
+
+[Store](https://ecommerce-store-git-master-reedwi.vercel.app/) 
+
+[Backend Admin](https://ecommerce-store-reedwi.vercel.app) (I think anyone can login technically)
 
 ## Structure things
 a route inside of (dashboard) like [storeId] is a convention in next saying that this route requires there to be a storeId parameter 
